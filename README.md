@@ -1,8 +1,8 @@
 # Cube Gaunlet - Chrome Extension Game
 25 brutally hard levels of precision platforming. Dodge enemies, collect coins, reach the exit. Can you beat them all?
-<center>
+
 [![Play in Browser](https://img.shields.io/badge/🎮-Play%20in%20Browser-00b4d8?style=for-the-badge)](https://web-gam-dev.blogspot.com/2026/06/cube-gaunlet-browser-game.html)
-</center>
+
 ## 📦 Install This Game In Your Browser
 
 
