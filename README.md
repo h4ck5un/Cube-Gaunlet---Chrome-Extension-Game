@@ -16,7 +16,7 @@ Cube Gauntlet — The Hardest Box Game is a fast-paced browser platformer where 
 Jump through deadly traps, dodge enemies, collect coins, and complete 25 challenging stages directly inside Chrome.
 
 This addictive arcade platform game is built for players who enjoy difficult gameplay and rewarding progression.
-
+<img scr="Screenshot_2.png">
 Game Features:
 
 Precision platformer gameplay
