@@ -4,6 +4,7 @@
 
 ## 📦 Install This Game In Your Browser
 
+[![Play in Browser](https://img.shields.io/badge/🎮-Play%20in%20Browser-00b4d8?style=for-the-badge)](https://web-gam-dev.blogspot.com/2026/06/cube-gaunlet-browser-game.html)
 [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add%20to%20Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/cube-gauntlet-the-hardest-box/)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Add%20to%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cube-gauntlet-%E2%80%94-the-harde/aanneoddcafjpnnghmmfknfpdppmlihg)
 
