@@ -2,13 +2,10 @@
 25 brutally hard levels of precision platforming. Dodge enemies, collect coins, reach the exit. Can you beat them all?
 
 
-## 📦 Install Extension for Your Browser
+## 📦 Install This Game In Your Browser
 
 [![Firefox Add-on](https://img.shields.io/badge/Firefox-Add%20to%20Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/cube-gauntlet-the-hardest-box/)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Add%20to%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cube-gauntlet-%E2%80%94-the-harde/aanneoddcafjpnnghmmfknfpdppmlihg)
-
-**Choose your browser:** Firefox 🦊 or Chrome 🌐
-
 
 
 <img src="screenshot.png">
