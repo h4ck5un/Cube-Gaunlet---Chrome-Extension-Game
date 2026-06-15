@@ -8,7 +8,7 @@
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Add%20to%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cube-gauntlet-%E2%80%94-the-harde/aanneoddcafjpnnghmmfknfpdppmlihg)
 
 
-<img src="screenshot.png">
+<img src="promo-head.png">
 Cube Gauntlet — The Hardest Box Game is a fast-paced browser platformer where players must survive difficult obstacle levels using precise timing and quick reflexes.
 
 Jump through deadly traps, dodge enemies, collect coins, and complete 25 challenging stages directly inside Chrome.
