@@ -2,10 +2,13 @@
 25 brutally hard levels of precision platforming. Dodge enemies, collect coins, reach the exit. Can you beat them all?
 
 
-## 🚀 Install Chrome Extension
+## 🎮 Get the Chrome Extension
 
-[![Available in the Chrome Web Store](https://img.shields.io/badge/Chrome-Add%20to%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cube-gauntlet-%E2%80%94-the-harde/aanneoddcafjpnnghmmfknfpdppmlihg)
+<a href="https://chromewebstore.google.com/detail/cube-gauntlet-%E2%80%94-the-harde/aanneoddcafjpnnghmmfknfpdppmlihg" target="_blank">
+  <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png" alt="Available in the Chrome Web Store" width="200">
+</a>
 
+**Why install?** Faster performance, offline play, and no browser tab clutter!
 
 
 
